@@ -8,14 +8,15 @@
 - [Ugo ZANZI](https://github.com/uzanzi)
 - [Bradley BARBIER](https://github.com/Catif)
 
-## Lien des autres parties :
+## Lien des services du projet :
 
-- [Order Service (API Slim)](http://test.com)
-- [Gateway FrontOffice (API Slim)](http://test.com)
-- [Auth Service (API MongoDB)](http://test.com)
+- [Order Service (API Slim)](https://github.com/cdteddyk1/LP-CIASIE_LBS_Order-Service)
+- [Gateway FrontOffice (API Slim)](https://github.com/uzanzi/LP-CIASIE_LBS_Gateway_FrontOffice)
+- [Auth Service (API MongoDB)](https://github.com/cdteddyk1/LP-CIASIE_LBS_Auth-Service)
+- [Catalog Service](https://github.com/Catif/LP-CIASIE_LBS_Catalog-Service)
 
 ![Architecture du projet](https://i.imgur.com/FQuIoZy.png)
 
-## Sujet LeBonSandwich
+## Sujet du Projet
 
 (...)
