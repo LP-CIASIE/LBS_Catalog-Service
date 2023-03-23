@@ -26,3 +26,8 @@ debug
 debug.ts
 .clinic
 */pg_stat_tmp
+data/database/pg_stat_tmp/db_0.stat
+data/database/pg_stat_tmp/db_13445.stat
+data/database/pg_stat_tmp/db_16384.stat
+data/database/pg_stat_tmp/db_16385.stat
+data/database/pg_stat_tmp/global.stat
